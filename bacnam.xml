@@ -1,0 +1,4818 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table1">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MA_NVGCS" type="xs:string" minOccurs="0" />
+                <xs:element name="MA_KHANG" type="xs:string" minOccurs="0" />
+                <xs:element name="MA_DDO" type="xs:string" minOccurs="0" />
+                <xs:element name="MA_DVIQLY" type="xs:string" minOccurs="0" />
+                <xs:element name="MA_GC" type="xs:string" minOccurs="0" />
+                <xs:element name="MA_QUYEN" type="xs:string" minOccurs="0" />
+                <xs:element name="MA_TRAM" type="xs:string" minOccurs="0" />
+                <xs:element name="BOCSO_ID" type="xs:long" minOccurs="0" />
+                <xs:element name="LOAI_BCS" type="xs:string" minOccurs="0" />
+                <xs:element name="LOAI_CS" type="xs:string" minOccurs="0" />
+                <xs:element name="TEN_KHANG" type="xs:string" minOccurs="0" />
+                <xs:element name="DIA_CHI" type="xs:string" minOccurs="0" />
+                <xs:element name="MA_NN" type="xs:string" minOccurs="0" />
+                <xs:element name="SO_HO" type="xs:decimal" minOccurs="0" />
+                <xs:element name="MA_CTO" type="xs:string" minOccurs="0" />
+                <xs:element name="SERY_CTO" type="xs:string" minOccurs="0" />
+                <xs:element name="HSN" type="xs:decimal" minOccurs="0" />
+                <xs:element name="CS_CU" type="xs:decimal" minOccurs="0" />
+                <xs:element name="TTR_CU" type="xs:string" minOccurs="0" />
+                <xs:element name="SL_CU" type="xs:long" minOccurs="0" />
+                <xs:element name="SL_TTIEP" type="xs:int" minOccurs="0" />
+                <xs:element name="NGAY_CU" msdata:DateTimeMode="Unspecified" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="CS_MOI" type="xs:decimal" minOccurs="0" />
+                <xs:element name="TTR_MOI" type="xs:string" minOccurs="0" />
+                <xs:element name="SL_MOI" type="xs:decimal" minOccurs="0" />
+                <xs:element name="CHUOI_GIA" type="xs:string" minOccurs="0" />
+                <xs:element name="KY" type="xs:int" minOccurs="0" />
+                <xs:element name="THANG" type="xs:int" minOccurs="0" />
+                <xs:element name="NAM" type="xs:int" minOccurs="0" />
+                <xs:element name="NGAY_MOI" msdata:DateTimeMode="Unspecified" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="NGUOI_GCS" type="xs:string" minOccurs="0" />
+                <xs:element name="SL_THAO" type="xs:decimal" minOccurs="0" />
+                <xs:element name="KIMUA_CSPK" type="xs:short" minOccurs="0" />
+                <xs:element name="MA_COT" type="xs:string" minOccurs="0" />
+                <xs:element name="SLUONG_1" type="xs:long" minOccurs="0" />
+                <xs:element name="SLUONG_2" type="xs:long" minOccurs="0" />
+                <xs:element name="SLUONG_3" type="xs:long" minOccurs="0" />
+                <xs:element name="SO_HOM" type="xs:string" minOccurs="0" />
+                <xs:element name="PMAX" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NGAY_PMAX" msdata:DateTimeMode="Unspecified" type="xs:dateTime" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS00316</MA_KHANG>
+    <MA_DDO>PA07SSSS00316001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>001</MA_GC>
+    <MA_QUYEN>SS002</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2026383</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Ha Viet Mang        </TEN_KHANG>
+    <DIA_CHI>Thon Bac Nam                  </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707006068</MA_CTO>
+    <SERY_CTO>1707006068</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>84</CS_CU>
+    <TTR_CU />
+    <SL_CU>74</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>7A</MA_COT>
+    <SLUONG_1>74</SLUONG_1>
+    <SLUONG_2>126</SLUONG_2>
+    <SLUONG_3>246</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS00323</MA_KHANG>
+    <MA_DDO>PA07SSSS00323001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>002</MA_GC>
+    <MA_QUYEN>SS002</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2026385</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Tong Duc Tinh       </TEN_KHANG>
+    <DIA_CHI>Son Hai Truong son            </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707006078</MA_CTO>
+    <SERY_CTO>1707006078</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>325</CS_CU>
+    <TTR_CU />
+    <SL_CU>287</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>7A</MA_COT>
+    <SLUONG_1>287</SLUONG_1>
+    <SLUONG_2>262</SLUONG_2>
+    <SLUONG_3>298</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS00313</MA_KHANG>
+    <MA_DDO>PA07SSSS00313001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>003</MA_GC>
+    <MA_QUYEN>SS002</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2026386</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Duong Thi Nghia     </TEN_KHANG>
+    <DIA_CHI>Sam Son                       </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707006072</MA_CTO>
+    <SERY_CTO>1707006072</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>100</CS_CU>
+    <TTR_CU />
+    <SL_CU>66</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>7A</MA_COT>
+    <SLUONG_1>66</SLUONG_1>
+    <SLUONG_2>86</SLUONG_2>
+    <SLUONG_3>44</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS00314</MA_KHANG>
+    <MA_DDO>PA07SSSS00314001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>004</MA_GC>
+    <MA_QUYEN>SS002</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2026387</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Bui Thi Sen         </TEN_KHANG>
+    <DIA_CHI>Bac Nam T.S-S.Son             </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707006067</MA_CTO>
+    <SERY_CTO>1707006067</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>240</CS_CU>
+    <TTR_CU />
+    <SL_CU>214</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>7A</MA_COT>
+    <SLUONG_1>214</SLUONG_1>
+    <SLUONG_2>200</SLUONG_2>
+    <SLUONG_3>224</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS19608</MA_KHANG>
+    <MA_DDO>PA07SSSS19608001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>005</MA_GC>
+    <MA_QUYEN>SS002</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027127</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>VAN THE BANG</TEN_KHANG>
+    <DIA_CHI>KTT THI UY SAM SON            </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707102365</MA_CTO>
+    <SERY_CTO>1707102365</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>397</CS_CU>
+    <TTR_CU />
+    <SL_CU>350</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>7A</MA_COT>
+    <SLUONG_1>350</SLUONG_1>
+    <SLUONG_2>330</SLUONG_2>
+    <SLUONG_3>401</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS13318</MA_KHANG>
+    <MA_DDO>PA07SSSS13318001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>006</MA_GC>
+    <MA_QUYEN>SS002</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027483</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Tran Quoc Dung      </TEN_KHANG>
+    <DIA_CHI>Nguyen Du Sam D               </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707101983</MA_CTO>
+    <SERY_CTO>1707101983</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>350</CS_CU>
+    <TTR_CU />
+    <SL_CU>271</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2/7A</MA_COT>
+    <SLUONG_1>271</SLUONG_1>
+    <SLUONG_2>90</SLUONG_2>
+    <SLUONG_3>86</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS00301</MA_KHANG>
+    <MA_DDO>PA07SSSS00301001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>007</MA_GC>
+    <MA_QUYEN>SS002</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027128</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Nguyen Thi Ngoc     </TEN_KHANG>
+    <DIA_CHI>Bac nam Truong son            </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707102373</MA_CTO>
+    <SERY_CTO>1707102373</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>215</CS_CU>
+    <TTR_CU />
+    <SL_CU>195</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>7A</MA_COT>
+    <SLUONG_1>195</SLUONG_1>
+    <SLUONG_2>160</SLUONG_2>
+    <SLUONG_3>199</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS00245</MA_KHANG>
+    <MA_DDO>PA07SSSS00245001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>008</MA_GC>
+    <MA_QUYEN>SS002</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027130</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Pham Minh Nghia     </TEN_KHANG>
+    <DIA_CHI>Nguyen Du                     </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707102367</MA_CTO>
+    <SERY_CTO>1707102367</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>49</CS_CU>
+    <TTR_CU />
+    <SL_CU>44</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>7A</MA_COT>
+    <SLUONG_1>44</SLUONG_1>
+    <SLUONG_2>44</SLUONG_2>
+    <SLUONG_3>325</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS00315</MA_KHANG>
+    <MA_DDO>PA07SSSS00315001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>009</MA_GC>
+    <MA_QUYEN>SS002</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027131</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Văn Đình Bản</TEN_KHANG>
+    <DIA_CHI>Bắc Nam - Trường Sơn - Sầm Sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707102379</MA_CTO>
+    <SERY_CTO>1707102379</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>391</CS_CU>
+    <TTR_CU />
+    <SL_CU>343</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>7A</MA_COT>
+    <SLUONG_1>343</SLUONG_1>
+    <SLUONG_2>337</SLUONG_2>
+    <SLUONG_3>439</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0000243</MA_KHANG>
+    <MA_DDO>PA07SS0000243001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>010</MA_GC>
+    <MA_QUYEN>SS002</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027208</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Nguyễn Thị Hải</TEN_KHANG>
+    <DIA_CHI>Bắc nam - Trường sơn - Sầm sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707101989</MA_CTO>
+    <SERY_CTO>1707101989</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>65</CS_CU>
+    <TTR_CU />
+    <SL_CU>57</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2/7A</MA_COT>
+    <SLUONG_1>57</SLUONG_1>
+    <SLUONG_2>59</SLUONG_2>
+    <SLUONG_3>81</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0000287</MA_KHANG>
+    <MA_DDO>PA07SS0000287001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>011</MA_GC>
+    <MA_QUYEN>SS002</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027209</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Nguyễn Văn Khoa</TEN_KHANG>
+    <DIA_CHI>Thành ngọc - Trường sơn - Sầm sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707100448</MA_CTO>
+    <SERY_CTO>1707100448</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>174</CS_CU>
+    <TTR_CU />
+    <SL_CU>154</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2/7A</MA_COT>
+    <SLUONG_1>154</SLUONG_1>
+    <SLUONG_2>149</SLUONG_2>
+    <SLUONG_3>196</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS00268</MA_KHANG>
+    <MA_DDO>PA07SSSS00268001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>012</MA_GC>
+    <MA_QUYEN>SS002</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027223</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Nguyễn Đức Thảo</TEN_KHANG>
+    <DIA_CHI>Bac Nam T.S-SS</DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707101988</MA_CTO>
+    <SERY_CTO>1707101988</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>270</CS_CU>
+    <TTR_CU />
+    <SL_CU>246</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2/7A</MA_COT>
+    <SLUONG_1>246</SLUONG_1>
+    <SLUONG_2>159</SLUONG_2>
+    <SLUONG_3>208</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS00273</MA_KHANG>
+    <MA_DDO>PA07SSSS00273001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>013</MA_GC>
+    <MA_QUYEN>SS002</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027225</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Trương Ngọc  Khoa</TEN_KHANG>
+    <DIA_CHI>D1 Truong Son Ss              </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707101990</MA_CTO>
+    <SERY_CTO>1707101990</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>270</CS_CU>
+    <TTR_CU />
+    <SL_CU>242</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2/7A</MA_COT>
+    <SLUONG_1>242</SLUONG_1>
+    <SLUONG_2>180</SLUONG_2>
+    <SLUONG_3>210</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS00259</MA_KHANG>
+    <MA_DDO>PA07SSSS00259001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>014</MA_GC>
+    <MA_QUYEN>SS002</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027240</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Nguyen Viet Quang   </TEN_KHANG>
+    <DIA_CHI>Nguyen Du Truong Son Sam Son  </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707101981</MA_CTO>
+    <SERY_CTO>1707101981</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>179</CS_CU>
+    <TTR_CU />
+    <SL_CU>159</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2/7A</MA_COT>
+    <SLUONG_1>159</SLUONG_1>
+    <SLUONG_2>132</SLUONG_2>
+    <SLUONG_3>231</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS05795</MA_KHANG>
+    <MA_DDO>PA07SSSS05795001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>015</MA_GC>
+    <MA_QUYEN>SS002</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027242</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>NGUYEN XUAN DAN     </TEN_KHANG>
+    <DIA_CHI>THANH NGOC TRUONG SON         </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707104520</MA_CTO>
+    <SERY_CTO>1707104520</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>189</CS_CU>
+    <TTR_CU />
+    <SL_CU>169</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2/7A</MA_COT>
+    <SLUONG_1>169</SLUONG_1>
+    <SLUONG_2>195</SLUONG_2>
+    <SLUONG_3>309</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS05788</MA_KHANG>
+    <MA_DDO>PA07SSSS05788001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>016</MA_GC>
+    <MA_QUYEN>SS002</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027258</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Lê Thị Đào</TEN_KHANG>
+    <DIA_CHI>THANH NGOC TRUONG SON         </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707103579</MA_CTO>
+    <SERY_CTO>1707103579</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>264</CS_CU>
+    <TTR_CU />
+    <SL_CU>229</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2/7A</MA_COT>
+    <SLUONG_1>229</SLUONG_1>
+    <SLUONG_2>213</SLUONG_2>
+    <SLUONG_3>259</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS05791</MA_KHANG>
+    <MA_DDO>PA07SSSS05791001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>017</MA_GC>
+    <MA_QUYEN>SS002</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027259</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>VAN THU BANG</TEN_KHANG>
+    <DIA_CHI>THANH NGOC TRUONG SON         </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707103563</MA_CTO>
+    <SERY_CTO>1707103563</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>1</CS_CU>
+    <TTR_CU />
+    <SL_CU>0</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2/7A</MA_COT>
+    <SLUONG_1>0</SLUONG_1>
+    <SLUONG_2>64</SLUONG_2>
+    <SLUONG_3>114</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS05794</MA_KHANG>
+    <MA_DDO>PA07SSSS05794001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>018</MA_GC>
+    <MA_QUYEN>SS002</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027260</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>DO ICH THUONG       </TEN_KHANG>
+    <DIA_CHI>THANH NGOC TRUONG SON         </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707103574</MA_CTO>
+    <SERY_CTO>1707103574</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>246</CS_CU>
+    <TTR_CU />
+    <SL_CU>217</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2/7A</MA_COT>
+    <SLUONG_1>217</SLUONG_1>
+    <SLUONG_2>201</SLUONG_2>
+    <SLUONG_3>246</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS00310</MA_KHANG>
+    <MA_DDO>PA07SSSS00310001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>019</MA_GC>
+    <MA_QUYEN>SS002</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027232</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Nguyen Lan Huong</TEN_KHANG>
+    <DIA_CHI>KTT Thi uy Sam son            </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707103570</MA_CTO>
+    <SERY_CTO>1707103570</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>230</CS_CU>
+    <TTR_CU />
+    <SL_CU>204</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2/7A</MA_COT>
+    <SLUONG_1>204</SLUONG_1>
+    <SLUONG_2>86</SLUONG_2>
+    <SLUONG_3>103</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS05790</MA_KHANG>
+    <MA_DDO>PA07SSSS05790001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>020</MA_GC>
+    <MA_QUYEN>SS002</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027261</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>HOANG THI THOM      </TEN_KHANG>
+    <DIA_CHI>THANH NGOC TRUONG SON         </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707105866</MA_CTO>
+    <SERY_CTO>1707105866</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>146</CS_CU>
+    <TTR_CU />
+    <SL_CU>129</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2/7A</MA_COT>
+    <SLUONG_1>129</SLUONG_1>
+    <SLUONG_2>109</SLUONG_2>
+    <SLUONG_3>104</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS05796</MA_KHANG>
+    <MA_DDO>PA07SSSS05796001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>021</MA_GC>
+    <MA_QUYEN>SS002</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027262</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Đinh Sỹ Mạc</TEN_KHANG>
+    <DIA_CHI>Thành Ngọc - Trường Sơn - TX Sầm Sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>2</SO_HO>
+    <MA_CTO>43320171707101497</MA_CTO>
+    <SERY_CTO>1707101497</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>212</CS_CU>
+    <TTR_CU />
+    <SL_CU>186</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2/7A</MA_COT>
+    <SLUONG_1>186</SLUONG_1>
+    <SLUONG_2>182</SLUONG_2>
+    <SLUONG_3>218</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS05789</MA_KHANG>
+    <MA_DDO>PA07SSSS05789001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>022</MA_GC>
+    <MA_QUYEN>SS002</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027756</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>DANG MINH TAM       </TEN_KHANG>
+    <DIA_CHI>THANH NGOC TRUONG SON         </DIA_CHI>
+    <MA_NN />
+    <SO_HO>2</SO_HO>
+    <MA_CTO>43320171707101499</MA_CTO>
+    <SERY_CTO>1707101499</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>291</CS_CU>
+    <TTR_CU />
+    <SL_CU>255</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2/7A</MA_COT>
+    <SLUONG_1>255</SLUONG_1>
+    <SLUONG_2>238</SLUONG_2>
+    <SLUONG_3>251</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS05792</MA_KHANG>
+    <MA_DDO>PA07SSSS05792001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>023</MA_GC>
+    <MA_QUYEN>SS002</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027264</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>NGUYEN MINH HUONG   </TEN_KHANG>
+    <DIA_CHI>THANH NGOC TRUONG SON         </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707101486</MA_CTO>
+    <SERY_CTO>1707101486</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>1</CS_CU>
+    <TTR_CU />
+    <SL_CU>0</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2/7A</MA_COT>
+    <SLUONG_1>0</SLUONG_1>
+    <SLUONG_2>1</SLUONG_2>
+    <SLUONG_3>0</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0009749</MA_KHANG>
+    <MA_DDO>PA07SS0009749001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>024</MA_GC>
+    <MA_QUYEN>SS002</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027265</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Hà Viết Trung</TEN_KHANG>
+    <DIA_CHI>Bắc Nam - Trường Sơn - Sầm Sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707104396</MA_CTO>
+    <SERY_CTO>1707104396</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>152</CS_CU>
+    <TTR_CU />
+    <SL_CU>131</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2/7A</MA_COT>
+    <SLUONG_1>131</SLUONG_1>
+    <SLUONG_2>150</SLUONG_2>
+    <SLUONG_3>392</SLUONG_3>
+    <SO_HOM>1</SO_HOM>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0013129</MA_KHANG>
+    <MA_DDO>PA07SS0013129001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>025</MA_GC>
+    <MA_QUYEN>SS002</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2051464</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Đoàn Thế Thuần</TEN_KHANG>
+    <DIA_CHI>Quang Giáp - Trung Sơn TP. Sầm Sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707109198</MA_CTO>
+    <SERY_CTO>1707109198</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>36</CS_CU>
+    <TTR_CU />
+    <SL_CU>36</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2/7A</MA_COT>
+    <SLUONG_1>36</SLUONG_1>
+    <SLUONG_2>0</SLUONG_2>
+    <SLUONG_3>0</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0000453</MA_KHANG>
+    <MA_DDO>PA07SS0000453002</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>001</MA_GC>
+    <MA_QUYEN>SS924</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2030586</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Chi nhánh Thanh hóa - Tổng công ty Truyền hình cáp Việt Nam</TEN_KHANG>
+    <DIA_CHI>92 Triệu Quốc Đạt - TP Thanh hoá</DIA_CHI>
+    <MA_NN />
+    <SO_HO>0</SO_HO>
+    <MA_CTO>43320171707090355</MA_CTO>
+    <SERY_CTO>1707090355</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>271</CS_CU>
+    <TTR_CU />
+    <SL_CU>248</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*1572-SXBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>TBA</MA_COT>
+    <SLUONG_1>248</SLUONG_1>
+    <SLUONG_2>254</SLUONG_2>
+    <SLUONG_3>244</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0000308</MA_KHANG>
+    <MA_DDO>PA07SS0000308001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>002</MA_GC>
+    <MA_QUYEN>SS924</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027332</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Hà Thị Thành</TEN_KHANG>
+    <DIA_CHI>Nguyễn Du - Trường sơn - Sầm sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>0</SO_HO>
+    <MA_CTO>43320171707109346</MA_CTO>
+    <SERY_CTO>1707109346</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>664</CS_CU>
+    <TTR_CU />
+    <SL_CU>566</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*2461-KDDV-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>1A</MA_COT>
+    <SLUONG_1>566</SLUONG_1>
+    <SLUONG_2>690</SLUONG_2>
+    <SLUONG_3>921</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0000309</MA_KHANG>
+    <MA_DDO>PA07SS0000309001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>003</MA_GC>
+    <MA_QUYEN>SS924</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>1896926</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Cty CP MT Đô thị và DVDL Sầm sơn</TEN_KHANG>
+    <DIA_CHI>Số 242 Đường Nguyễn Trãi - Bắc sơn - TX Sầm sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>0</SO_HO>
+    <MA_CTO>317201333024663</MA_CTO>
+    <SERY_CTO>33024663</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>40449</CS_CU>
+    <TTR_CU />
+    <SL_CU>1032</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*2461-KDDV-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>TBA</MA_COT>
+    <SLUONG_1>1032</SLUONG_1>
+    <SLUONG_2>1182</SLUONG_2>
+    <SLUONG_3>1742</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0000288</MA_KHANG>
+    <MA_DDO>PA07SS0000288001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>004</MA_GC>
+    <MA_QUYEN>SS924</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>1680447</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Cty CP MT Đô thị và DVDL Sầm sơn</TEN_KHANG>
+    <DIA_CHI>Số 242 Đường Nguyễn Trãi - Bắc sơn - TX Sầm sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>0</SO_HO>
+    <MA_CTO>317201434000887</MA_CTO>
+    <SERY_CTO>34000887</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>140965</CS_CU>
+    <TTR_CU />
+    <SL_CU>4769</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*1755-CQHC-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>TBA</MA_COT>
+    <SLUONG_1>4769</SLUONG_1>
+    <SLUONG_2>4466</SLUONG_2>
+    <SLUONG_3>4224</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS50032</MA_KHANG>
+    <MA_DDO>PA07SSSS50032001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>005</MA_GC>
+    <MA_QUYEN>SS924</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027317</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>TOA AN SAM SON      </TEN_KHANG>
+    <DIA_CHI>SAM SON                       </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707109359</MA_CTO>
+    <SERY_CTO>1707109359</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>740</CS_CU>
+    <TTR_CU />
+    <SL_CU>637</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*1755-CQHC-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>1A</MA_COT>
+    <SLUONG_1>637</SLUONG_1>
+    <SLUONG_2>661</SLUONG_2>
+    <SLUONG_3>1040</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS50026</MA_KHANG>
+    <MA_DDO>PA07SSSS50026001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>006</MA_GC>
+    <MA_QUYEN>SS924</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027323</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>VIEN KIEM SAT ND    </TEN_KHANG>
+    <DIA_CHI>SAM SON                       </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707109347</MA_CTO>
+    <SERY_CTO>1707109347</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>593</CS_CU>
+    <TTR_CU />
+    <SL_CU>511</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*1755-CQHC-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>1A</MA_COT>
+    <SLUONG_1>511</SLUONG_1>
+    <SLUONG_2>505</SLUONG_2>
+    <SLUONG_3>1440</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0003700</MA_KHANG>
+    <MA_DDO>PA07SS0003700001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>007</MA_GC>
+    <MA_QUYEN>SS924</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>1688854</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Viettel Thanh Hoá - Chi nhánh Tập đoàn Viễn thông Quân đội</TEN_KHANG>
+    <DIA_CHI>Đường Nguyễn du - Trường sơn - Thị xã Sầm Sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>0</SO_HO>
+    <MA_CTO>317201434034043</MA_CTO>
+    <SERY_CTO>34034043</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>59132</CS_CU>
+    <TTR_CU />
+    <SL_CU>0</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*2461-KDDV-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>3A</MA_COT>
+    <SLUONG_1>0</SLUONG_1>
+    <SLUONG_2>0</SLUONG_2>
+    <SLUONG_3>0</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS50863</MA_KHANG>
+    <MA_DDO>PA07SSSS50863001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>008</MA_GC>
+    <MA_QUYEN>SS924</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027441</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Viettel Thanh Hoá - Chi nhánh Tập đoàn Viễn thông Quân đội</TEN_KHANG>
+    <DIA_CHI>Toà nhà Viettel Nam Đại lộ Lê Lợi - Đông Hơng - TP Thanh hoá</DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707110472</MA_CTO>
+    <SERY_CTO>1707110472</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>6180</CS_CU>
+    <TTR_CU />
+    <SL_CU>5442</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*1572-SXBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>5A</MA_COT>
+    <SLUONG_1>5442</SLUONG_1>
+    <SLUONG_2>5460</SLUONG_2>
+    <SLUONG_3>7324</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS50418</MA_KHANG>
+    <MA_DDO>PA07SSSS50418001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>009</MA_GC>
+    <MA_QUYEN>SS924</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027439</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>DOI Q.LY THI TRUONG </TEN_KHANG>
+    <DIA_CHI>SAM SON                       </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707101512</MA_CTO>
+    <SERY_CTO>1707101512</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>314</CS_CU>
+    <TTR_CU />
+    <SL_CU>282</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*1755-CQHC-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>5A</MA_COT>
+    <SLUONG_1>282</SLUONG_1>
+    <SLUONG_2>256</SLUONG_2>
+    <SLUONG_3>355</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS50755</MA_KHANG>
+    <MA_DDO>PA07SSSS50755001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>010</MA_GC>
+    <MA_QUYEN>SS924</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>1680599</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>TT Dạy nghề công đoàn Thanh hoá</TEN_KHANG>
+    <DIA_CHI>duong nguyen du sam son</DIA_CHI>
+    <MA_NN />
+    <SO_HO>0</SO_HO>
+    <MA_CTO>317201434001056</MA_CTO>
+    <SERY_CTO>34001056</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>37841</CS_CU>
+    <TTR_CU />
+    <SL_CU>457</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*1755-CQHC-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>5A</MA_COT>
+    <SLUONG_1>457</SLUONG_1>
+    <SLUONG_2>470</SLUONG_2>
+    <SLUONG_3>668</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS50969</MA_KHANG>
+    <MA_DDO>PA07SSSS50969001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>011</MA_GC>
+    <MA_QUYEN>SS924</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027283</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>TR. MAM NON HOA LAN </TEN_KHANG>
+    <DIA_CHI>P.TRUONG SON SAM SON THANH HOA</DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707109248</MA_CTO>
+    <SERY_CTO>1707109248</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>748</CS_CU>
+    <TTR_CU />
+    <SL_CU>635</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*1635-CQBV-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>4A2</MA_COT>
+    <SLUONG_1>635</SLUONG_1>
+    <SLUONG_2>612</SLUONG_2>
+    <SLUONG_3>816</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0000307</MA_KHANG>
+    <MA_DDO>PA07SS0000307001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>012</MA_GC>
+    <MA_QUYEN>SS924</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>1853229</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Nguyễn Viết Quang</TEN_KHANG>
+    <DIA_CHI>Lê Hoàn - Trường sơn - Sầm sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>0</SO_HO>
+    <MA_CTO>317201434103948</MA_CTO>
+    <SERY_CTO>34103948</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>3487</CS_CU>
+    <TTR_CU />
+    <SL_CU>2</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*2461-KDDV-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>7A</MA_COT>
+    <SLUONG_1>2</SLUONG_1>
+    <SLUONG_2>0</SLUONG_2>
+    <SLUONG_3>0</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0000280</MA_KHANG>
+    <MA_DDO>PA07SS0000280001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>013</MA_GC>
+    <MA_QUYEN>SS924</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>1955729</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Cao Thị Lợi</TEN_KHANG>
+    <DIA_CHI>Đường Nguyễn Du - P. Trường Sơn - TX Sầm Sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>0</SO_HO>
+    <MA_CTO>317201232012424</MA_CTO>
+    <SERY_CTO>32012424</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>24340</CS_CU>
+    <TTR_CU />
+    <SL_CU>0</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*2461-KDDV-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>6A</MA_COT>
+    <SLUONG_1>0</SLUONG_1>
+    <SLUONG_2>80</SLUONG_2>
+    <SLUONG_3>0</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0000602</MA_KHANG>
+    <MA_DDO>PA07SS0000602001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>014</MA_GC>
+    <MA_QUYEN>SS924</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>1746546</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Ngân Hàng VPBanh Thanh Hoá - P. Giao Dịch Sầm sơn</TEN_KHANG>
+    <DIA_CHI>Số 47 - Đường Nguyễn Du - TX Sầm sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>0</SO_HO>
+    <MA_CTO>317201434011134</MA_CTO>
+    <SERY_CTO>34011134</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>59105</CS_CU>
+    <TTR_CU />
+    <SL_CU>1588</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*2461-KDDV-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>6A</MA_COT>
+    <SLUONG_1>1588</SLUONG_1>
+    <SLUONG_2>1758</SLUONG_2>
+    <SLUONG_3>2369</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS50688</MA_KHANG>
+    <MA_DDO>PA07SSSS50688001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>015</MA_GC>
+    <MA_QUYEN>SS924</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027315</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>TT B DUONG CHINH TRI</TEN_KHANG>
+    <DIA_CHI>TRUONG SON                    </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707104388</MA_CTO>
+    <SERY_CTO>1707104388</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>134</CS_CU>
+    <TTR_CU />
+    <SL_CU>65</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*1755-CQHC-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>9A</MA_COT>
+    <SLUONG_1>65</SLUONG_1>
+    <SLUONG_2>186</SLUONG_2>
+    <SLUONG_3>356</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS50007</MA_KHANG>
+    <MA_DDO>PA07SSSS50007001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>016</MA_GC>
+    <MA_QUYEN>SS924</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>1853228</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>THI UY SAM SON      </TEN_KHANG>
+    <DIA_CHI>SAM SON</DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>317201434141471</MA_CTO>
+    <SERY_CTO>34141471</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>28414</CS_CU>
+    <TTR_CU />
+    <SL_CU>1385</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*1755-CQHC-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>9A</MA_COT>
+    <SLUONG_1>1385</SLUONG_1>
+    <SLUONG_2>1600</SLUONG_2>
+    <SLUONG_3>3263</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS50608</MA_KHANG>
+    <MA_DDO>PA07SSSS50608001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>017</MA_GC>
+    <MA_QUYEN>SS924</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>1955724</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>BĐ t.xã Sầm sơn-BĐ tỉnh Thanh hoá</TEN_KHANG>
+    <DIA_CHI>D.N du Ph T.Son Sam Son T.HOA</DIA_CHI>
+    <MA_NN />
+    <SO_HO>0</SO_HO>
+    <MA_CTO>317201333038807</MA_CTO>
+    <SERY_CTO>33038807</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>8591</CS_CU>
+    <TTR_CU />
+    <SL_CU>0</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*2461-KDDV-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>8A</MA_COT>
+    <SLUONG_1>0</SLUONG_1>
+    <SLUONG_2>0</SLUONG_2>
+    <SLUONG_3>0</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS50105</MA_KHANG>
+    <MA_DDO>PA07SSSS50105001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>018</MA_GC>
+    <MA_QUYEN>SS924</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>1680600</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>BƯU ĐIỆN THÀNH PHỐ SẦM SƠN</TEN_KHANG>
+    <DIA_CHI>45 Đ.NGUYỄN DU - P.TRƯỜNG SƠN - TP.SẦM SƠN</DIA_CHI>
+    <MA_NN />
+    <SO_HO>0</SO_HO>
+    <MA_CTO>317201434012919</MA_CTO>
+    <SERY_CTO>34012919</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>26707</CS_CU>
+    <TTR_CU />
+    <SL_CU>0</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*1572-SXBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>8A</MA_COT>
+    <SLUONG_1>0</SLUONG_1>
+    <SLUONG_2>1283</SLUONG_2>
+    <SLUONG_3>2247</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0000739</MA_KHANG>
+    <MA_DDO>PA07SS0000739001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>019</MA_GC>
+    <MA_QUYEN>SS924</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>1680601</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Trung Tâm Viễn Thông Sầm sơn</TEN_KHANG>
+    <DIA_CHI>Đường Nguyễn Du - P. Trường Sơn - Sầm sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>0</SO_HO>
+    <MA_CTO>317201434001050</MA_CTO>
+    <SERY_CTO>34001050</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>29900</CS_CU>
+    <TTR_CU />
+    <SL_CU>0</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 90%*1572-SXBT-A + C*2461-KDDV</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>8A</MA_COT>
+    <SLUONG_1>0</SLUONG_1>
+    <SLUONG_2>0</SLUONG_2>
+    <SLUONG_3>28</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS50490</MA_KHANG>
+    <MA_DDO>PA07SSSS50490001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>020</MA_GC>
+    <MA_QUYEN>SS924</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>1681999</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Điện lực Thị xã Sầm sơn</TEN_KHANG>
+    <DIA_CHI>22 Lê lợi - Trường sơn - TX Sầm sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>0</SO_HO>
+    <MA_CTO>317201434037124</MA_CTO>
+    <SERY_CTO>34037124</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>57679</CS_CU>
+    <TTR_CU />
+    <SL_CU>3</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*2461-KDDV-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2B</MA_COT>
+    <SLUONG_1>3</SLUONG_1>
+    <SLUONG_2>9</SLUONG_2>
+    <SLUONG_3>8</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS50016</MA_KHANG>
+    <MA_DDO>PA07SSSS50016001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>021</MA_GC>
+    <MA_QUYEN>SS924</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>1847438</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>TRUONG PTTH SAM SON </TEN_KHANG>
+    <DIA_CHI>TRUONG SON SAM SON</DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>36020161632101187</MA_CTO>
+    <SERY_CTO>1632101187</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>16447</CS_CU>
+    <TTR_CU />
+    <SL_CU>2050</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*1635-CQBV-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2B</MA_COT>
+    <SLUONG_1>2050</SLUONG_1>
+    <SLUONG_2>2232</SLUONG_2>
+    <SLUONG_3>2967</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS50025</MA_KHANG>
+    <MA_DDO>PA07SSSS50025001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>022</MA_GC>
+    <MA_QUYEN>SS924</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>1847437</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>T.BOI DUONG CB CC TK</TEN_KHANG>
+    <DIA_CHI>SAM SON</DIA_CHI>
+    <MA_NN />
+    <SO_HO>0</SO_HO>
+    <MA_CTO>36020161632101183</MA_CTO>
+    <SERY_CTO>1632101183</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>14058</CS_CU>
+    <TTR_CU />
+    <SL_CU>1256</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*1755-CQHC-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2B</MA_COT>
+    <SLUONG_1>1256</SLUONG_1>
+    <SLUONG_2>1002</SLUONG_2>
+    <SLUONG_3>1041</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0008879</MA_KHANG>
+    <MA_DDO>PA07SS0008879001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>023</MA_GC>
+    <MA_QUYEN>SS924</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027333</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Chi nhánh Thanh hóa - Tổng công ty Truyền hình cáp Việt Nam</TEN_KHANG>
+    <DIA_CHI>Số 613 Bà triệu - Phường Đông thọ - TP Thanh hoá</DIA_CHI>
+    <MA_NN />
+    <SO_HO>0</SO_HO>
+    <MA_CTO>43320171707104734</MA_CTO>
+    <SERY_CTO>1707104734</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>337</CS_CU>
+    <TTR_CU />
+    <SL_CU>298</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*1572-SXBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2B</MA_COT>
+    <SLUONG_1>298</SLUONG_1>
+    <SLUONG_2>285</SLUONG_2>
+    <SLUONG_3>288</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS50049</MA_KHANG>
+    <MA_DDO>PA07SSSS50049001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>024</MA_GC>
+    <MA_QUYEN>SS924</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2056647</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>UBND THI XA SAM SON </TEN_KHANG>
+    <DIA_CHI>SAM SON</DIA_CHI>
+    <MA_NN />
+    <SO_HO>0</SO_HO>
+    <MA_CTO>316201333067327</MA_CTO>
+    <SERY_CTO>33067327</SERY_CTO>
+    <HSN>30</HSN>
+    <CS_CU>23128</CS_CU>
+    <TTR_CU />
+    <SL_CU>5940</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*1755-CQHC-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>3B</MA_COT>
+    <SLUONG_1>5940</SLUONG_1>
+    <SLUONG_2>6240</SLUONG_2>
+    <SLUONG_3>11640</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0010360</MA_KHANG>
+    <MA_DDO>PA07SS0010360001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>026</MA_GC>
+    <MA_QUYEN>SS924</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>1954202</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Ban QLDA công trình TX  Sầm Sơn</TEN_KHANG>
+    <DIA_CHI>06 Đường Lê  Lợi - Phường Trường Sơn - Thị xã Sầm Sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>0</SO_HO>
+    <MA_CTO>317201434002049</MA_CTO>
+    <SERY_CTO>34002049</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>7935</CS_CU>
+    <TTR_CU />
+    <SL_CU>446</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*1755-CQHC-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2B</MA_COT>
+    <SLUONG_1>446</SLUONG_1>
+    <SLUONG_2>607</SLUONG_2>
+    <SLUONG_3>1565</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0012804</MA_KHANG>
+    <MA_DDO>PA07SS0012804001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>027</MA_GC>
+    <MA_QUYEN>SS924</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>1962896</BOCSO_ID>
+    <LOAI_BCS>BT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Công ty CPXD Quảng tường</TEN_KHANG>
+    <DIA_CHI>KP.Vĩnh Thành - P.Trung sơn – TP.Sầm sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>0</SO_HO>
+    <MA_CTO>303201551250923</MA_CTO>
+    <SERY_CTO>51250923</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>1502</CS_CU>
+    <TTR_CU />
+    <SL_CU>372</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> BT: 100%*1572-SXBT-A; CD: 100%*2862-SXBT-A; TD: 100%*1004-SXBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>3A</MA_COT>
+    <SLUONG_1>372</SLUONG_1>
+    <SLUONG_2>604</SLUONG_2>
+    <SLUONG_3>506</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0012804</MA_KHANG>
+    <MA_DDO>PA07SS0012804001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>027</MA_GC>
+    <MA_QUYEN>SS924</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>1962897</BOCSO_ID>
+    <LOAI_BCS>CD</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Công ty CPXD Quảng tường</TEN_KHANG>
+    <DIA_CHI>KP.Vĩnh Thành - P.Trung sơn – TP.Sầm sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>0</SO_HO>
+    <MA_CTO>303201551250923</MA_CTO>
+    <SERY_CTO>51250923</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>457</CS_CU>
+    <TTR_CU />
+    <SL_CU>121</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> BT: 100%*1572-SXBT-A; CD: 100%*2862-SXBT-A; TD: 100%*1004-SXBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>3A</MA_COT>
+    <SLUONG_1>121</SLUONG_1>
+    <SLUONG_2>193</SLUONG_2>
+    <SLUONG_3>133</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0012804</MA_KHANG>
+    <MA_DDO>PA07SS0012804001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>027</MA_GC>
+    <MA_QUYEN>SS924</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>1962898</BOCSO_ID>
+    <LOAI_BCS>TD</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Công ty CPXD Quảng tường</TEN_KHANG>
+    <DIA_CHI>KP.Vĩnh Thành - P.Trung sơn – TP.Sầm sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>0</SO_HO>
+    <MA_CTO>303201551250923</MA_CTO>
+    <SERY_CTO>51250923</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>429</CS_CU>
+    <TTR_CU />
+    <SL_CU>109</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> BT: 100%*1572-SXBT-A; CD: 100%*2862-SXBT-A; TD: 100%*1004-SXBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>3A</MA_COT>
+    <SLUONG_1>109</SLUONG_1>
+    <SLUONG_2>159</SLUONG_2>
+    <SLUONG_3>153</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0012804</MA_KHANG>
+    <MA_DDO>PA07SS0012804001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>027</MA_GC>
+    <MA_QUYEN>SS924</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>1962899</BOCSO_ID>
+    <LOAI_BCS>SG</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Công ty CPXD Quảng tường</TEN_KHANG>
+    <DIA_CHI>KP.Vĩnh Thành - P.Trung sơn – TP.Sầm sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>0</SO_HO>
+    <MA_CTO>303201551250923</MA_CTO>
+    <SERY_CTO>51250923</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>2389</CS_CU>
+    <TTR_CU />
+    <SL_CU>602</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> BT: 100%*1572-SXBT-A; CD: 100%*2862-SXBT-A; TD: 100%*1004-SXBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>3A</MA_COT>
+    <SLUONG_1>602</SLUONG_1>
+    <SLUONG_2>956</SLUONG_2>
+    <SLUONG_3>792</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0012804</MA_KHANG>
+    <MA_DDO>PA07SS0012804001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>027</MA_GC>
+    <MA_QUYEN>SS924</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>1962900</BOCSO_ID>
+    <LOAI_BCS>VC</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Công ty CPXD Quảng tường</TEN_KHANG>
+    <DIA_CHI>KP.Vĩnh Thành - P.Trung sơn – TP.Sầm sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>0</SO_HO>
+    <MA_CTO>303201551250923</MA_CTO>
+    <SERY_CTO>51250923</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>1065</CS_CU>
+    <TTR_CU />
+    <SL_CU>344</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> BT: 100%*1572-SXBT-A; CD: 100%*2862-SXBT-A; TD: 100%*1004-SXBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>3A</MA_COT>
+    <SLUONG_1>344</SLUONG_1>
+    <SLUONG_2>250</SLUONG_2>
+    <SLUONG_3>468</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0000250</MA_KHANG>
+    <MA_DDO>PA07SS0000250001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>028</MA_GC>
+    <MA_QUYEN>SS924</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>1853226</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Phòng Giáo dục và Đào tạo Sầm sơn</TEN_KHANG>
+    <DIA_CHI>Lê hoàn - P.Trường sơn - TP Sầm sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>0</SO_HO>
+    <MA_CTO>317201434140398</MA_CTO>
+    <SERY_CTO>34140398</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>7791</CS_CU>
+    <TTR_CU />
+    <SL_CU>294</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*1755-CQHC-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2/7A</MA_COT>
+    <SLUONG_1>294</SLUONG_1>
+    <SLUONG_2>357</SLUONG_2>
+    <SLUONG_3>702</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0004156</MA_KHANG>
+    <MA_DDO>PA07SS0004156001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>029</MA_GC>
+    <MA_QUYEN>SS924</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>1853218</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>TT Văn hoá du lịch Thành phố Sầm sơn</TEN_KHANG>
+    <DIA_CHI>35 Đ.Lê hoàn - Phường Trường sơn - TP Sầm Sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>0</SO_HO>
+    <MA_CTO>317201434102979</MA_CTO>
+    <SERY_CTO>34102979</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>15230</CS_CU>
+    <TTR_CU />
+    <SL_CU>188</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*1755-CQHC-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2/7A</MA_COT>
+    <SLUONG_1>188</SLUONG_1>
+    <SLUONG_2>454</SLUONG_2>
+    <SLUONG_3>1092</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS50065</MA_KHANG>
+    <MA_DDO>PA07SSSS50065001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>030</MA_GC>
+    <MA_QUYEN>SS924</MA_QUYEN>
+    <MA_TRAM>SSCE00143</MA_TRAM>
+    <BOCSO_ID>2066915</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Mặt trận tổ quốc và các đoàn thể thành phố Sầm sơn</TEN_KHANG>
+    <DIA_CHI>SAM SON</DIA_CHI>
+    <MA_NN />
+    <SO_HO>0</SO_HO>
+    <MA_CTO>317201434117627</MA_CTO>
+    <SERY_CTO>34117627</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>7669</CS_CU>
+    <TTR_CU />
+    <SL_CU>679</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-25T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*1755-CQHC-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <SLUONG_1>679</SLUONG_1>
+    <SLUONG_2>274</SLUONG_2>
+    <SLUONG_3>653</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS00312</MA_KHANG>
+    <MA_DDO>PA07SSSS00312001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>001</MA_GC>
+    <MA_QUYEN>SST53</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027313</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Nguyen Van Manh</TEN_KHANG>
+    <DIA_CHI>Truong Son SS                 </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707104731</MA_CTO>
+    <SERY_CTO>1707104731</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>262</CS_CU>
+    <TTR_CU />
+    <SL_CU>235</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2B</MA_COT>
+    <SLUONG_1>235</SLUONG_1>
+    <SLUONG_2>232</SLUONG_2>
+    <SLUONG_3>293</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS00229</MA_KHANG>
+    <MA_DDO>PA07SSSS00229001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>002</MA_GC>
+    <MA_QUYEN>SST53</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027311</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Le Van Kham</TEN_KHANG>
+    <DIA_CHI>Bac nam Truong son</DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707104725</MA_CTO>
+    <SERY_CTO>1707104725</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>199</CS_CU>
+    <TTR_CU />
+    <SL_CU>175</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>4A</MA_COT>
+    <SLUONG_1>175</SLUONG_1>
+    <SLUONG_2>165</SLUONG_2>
+    <SLUONG_3>199</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS05128</MA_KHANG>
+    <MA_DDO>PA07SSSS05128001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>003</MA_GC>
+    <MA_QUYEN>SST53</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027314</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Trịnh Ngọc Truyền</TEN_KHANG>
+    <DIA_CHI>THANH NGOC TRUONG SON         </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707104732</MA_CTO>
+    <SERY_CTO>1707104732</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>404</CS_CU>
+    <TTR_CU />
+    <SL_CU>283</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2B</MA_COT>
+    <SLUONG_1>283</SLUONG_1>
+    <SLUONG_2>456</SLUONG_2>
+    <SLUONG_3>73</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS05510</MA_KHANG>
+    <MA_DDO>PA07SSSS05510001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>004</MA_GC>
+    <MA_QUYEN>SST53</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027267</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Nguyễn Thừa Được</TEN_KHANG>
+    <DIA_CHI>THANH NGOC TRUONG SON         </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707102363</MA_CTO>
+    <SERY_CTO>1707102363</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>163</CS_CU>
+    <TTR_CU />
+    <SL_CU>144</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>1A</MA_COT>
+    <SLUONG_1>144</SLUONG_1>
+    <SLUONG_2>136</SLUONG_2>
+    <SLUONG_3>114</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS05508</MA_KHANG>
+    <MA_DDO>PA07SSSS05508001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>005</MA_GC>
+    <MA_QUYEN>SST53</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027269</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Nguyễn Thừa Năm (Hương)</TEN_KHANG>
+    <DIA_CHI>THANH NGOC TRUONG SON         </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707102375</MA_CTO>
+    <SERY_CTO>1707102375</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>386</CS_CU>
+    <TTR_CU />
+    <SL_CU>336</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>1A</MA_COT>
+    <SLUONG_1>336</SLUONG_1>
+    <SLUONG_2>315</SLUONG_2>
+    <SLUONG_3>460</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS05509</MA_KHANG>
+    <MA_DDO>PA07SSSS05509001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>006</MA_GC>
+    <MA_QUYEN>SST53</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027268</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Nguyễn Thừa Nam (Loan)</TEN_KHANG>
+    <DIA_CHI>THANH NGOC TRUONG SON         </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707105868</MA_CTO>
+    <SERY_CTO>1707105868</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>112</CS_CU>
+    <TTR_CU />
+    <SL_CU>94</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>1A</MA_COT>
+    <SLUONG_1>94</SLUONG_1>
+    <SLUONG_2>94</SLUONG_2>
+    <SLUONG_3>40</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS05511</MA_KHANG>
+    <MA_DDO>PA07SSSS05511001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>007</MA_GC>
+    <MA_QUYEN>SST53</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027270</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Nguyễn Thừa Thanh</TEN_KHANG>
+    <DIA_CHI>THANH NGOC TRUONG SON         </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707102374</MA_CTO>
+    <SERY_CTO>1707102374</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>323</CS_CU>
+    <TTR_CU />
+    <SL_CU>287</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>1A</MA_COT>
+    <SLUONG_1>287</SLUONG_1>
+    <SLUONG_2>277</SLUONG_2>
+    <SLUONG_3>423</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0008672</MA_KHANG>
+    <MA_DDO>PA07SS0008672001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>008</MA_GC>
+    <MA_QUYEN>SST53</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027271</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Nguyễn Thị Đức</TEN_KHANG>
+    <DIA_CHI>Thành ngọc - Trường sơn - Thị xã Sầm Sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707102371</MA_CTO>
+    <SERY_CTO>1707102371</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>196</CS_CU>
+    <TTR_CU />
+    <SL_CU>176</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>1A</MA_COT>
+    <SLUONG_1>176</SLUONG_1>
+    <SLUONG_2>135</SLUONG_2>
+    <SLUONG_3>248</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0009419</MA_KHANG>
+    <MA_DDO>PA07SS0009419001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>009</MA_GC>
+    <MA_QUYEN>SST53</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027272</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Nguyễn Thị Vinh</TEN_KHANG>
+    <DIA_CHI>KP Thành ngọc - Phường Trường sơn - Thị xã Sầm Sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707101493</MA_CTO>
+    <SERY_CTO>1707101493</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>73</CS_CU>
+    <TTR_CU />
+    <SL_CU>66</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>1A</MA_COT>
+    <SLUONG_1>66</SLUONG_1>
+    <SLUONG_2>44</SLUONG_2>
+    <SLUONG_3>82</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0000262</MA_KHANG>
+    <MA_DDO>PA07SS0000262001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>010</MA_GC>
+    <MA_QUYEN>SST53</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027275</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Cao Thị Len</TEN_KHANG>
+    <DIA_CHI>KP. Thành ngọc - P. Trường sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707044668</MA_CTO>
+    <SERY_CTO>1707044668</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>267</CS_CU>
+    <TTR_CU />
+    <SL_CU>234</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2A</MA_COT>
+    <SLUONG_1>234</SLUONG_1>
+    <SLUONG_2>292</SLUONG_2>
+    <SLUONG_3>347</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS05126</MA_KHANG>
+    <MA_DDO>PA07SSSS05126001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>011</MA_GC>
+    <MA_QUYEN>SST53</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027277</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>LE THI THE</TEN_KHANG>
+    <DIA_CHI>THANH NGOC TRUONG SON         </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707105950</MA_CTO>
+    <SERY_CTO>1707105950</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>333</CS_CU>
+    <TTR_CU />
+    <SL_CU>291</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>3A</MA_COT>
+    <SLUONG_1>291</SLUONG_1>
+    <SLUONG_2>275</SLUONG_2>
+    <SLUONG_3>452</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS05127</MA_KHANG>
+    <MA_DDO>PA07SSSS05127001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>012</MA_GC>
+    <MA_QUYEN>SST53</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027278</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>LE VAN KHOA</TEN_KHANG>
+    <DIA_CHI>THANH NGOC TRUONG SON         </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707105943</MA_CTO>
+    <SERY_CTO>1707105943</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>178</CS_CU>
+    <TTR_CU />
+    <SL_CU>106</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>3A</MA_COT>
+    <SLUONG_1>106</SLUONG_1>
+    <SLUONG_2>112</SLUONG_2>
+    <SLUONG_3>254</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS05125</MA_KHANG>
+    <MA_DDO>PA07SSSS05125001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>013</MA_GC>
+    <MA_QUYEN>SST53</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027279</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>VIEN DINH PHONG</TEN_KHANG>
+    <DIA_CHI>THANH NGOC TRUONG SON         </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707105954</MA_CTO>
+    <SERY_CTO>1707105954</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>146</CS_CU>
+    <TTR_CU />
+    <SL_CU>124</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>3A</MA_COT>
+    <SLUONG_1>124</SLUONG_1>
+    <SLUONG_2>145</SLUONG_2>
+    <SLUONG_3>185</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS06133</MA_KHANG>
+    <MA_DDO>PA07SSSS06133001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>014</MA_GC>
+    <MA_QUYEN>SST53</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027280</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>TRAN THI LAN</TEN_KHANG>
+    <DIA_CHI>KHU TT UB SAM SON             </DIA_CHI>
+    <MA_NN />
+    <SO_HO>2</SO_HO>
+    <MA_CTO>43320171707105949</MA_CTO>
+    <SERY_CTO>1707105949</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>501</CS_CU>
+    <TTR_CU />
+    <SL_CU>500</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>3A</MA_COT>
+    <SLUONG_1>500</SLUONG_1>
+    <SLUONG_2>4</SLUONG_2>
+    <SLUONG_3>897</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS05129</MA_KHANG>
+    <MA_DDO>PA07SSSS05129001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>015</MA_GC>
+    <MA_QUYEN>SST53</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027281</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>NGUYEN DANG CAN</TEN_KHANG>
+    <DIA_CHI>THANH NGOC TRUONG SON         </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707103652</MA_CTO>
+    <SERY_CTO>1707103652</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>267</CS_CU>
+    <TTR_CU />
+    <SL_CU>228</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>3A</MA_COT>
+    <SLUONG_1>228</SLUONG_1>
+    <SLUONG_2>205</SLUONG_2>
+    <SLUONG_3>223</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS05130</MA_KHANG>
+    <MA_DDO>PA07SSSS05130001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>016</MA_GC>
+    <MA_QUYEN>SST53</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027285</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>TRAN NGOC QUYEN</TEN_KHANG>
+    <DIA_CHI>THANH NGOC TRUONG SON         </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707106325</MA_CTO>
+    <SERY_CTO>1707106325</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>167</CS_CU>
+    <TTR_CU />
+    <SL_CU>148</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>4A</MA_COT>
+    <SLUONG_1>148</SLUONG_1>
+    <SLUONG_2>126</SLUONG_2>
+    <SLUONG_3>176</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS05267</MA_KHANG>
+    <MA_DDO>PA07SSSS05267001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>017</MA_GC>
+    <MA_QUYEN>SST53</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027286</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>VAN THE DUONG</TEN_KHANG>
+    <DIA_CHI>THANH NGOC TRUONG SON         </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707108924</MA_CTO>
+    <SERY_CTO>1707108924</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>282</CS_CU>
+    <TTR_CU />
+    <SL_CU>248</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>4A</MA_COT>
+    <SLUONG_1>248</SLUONG_1>
+    <SLUONG_2>233</SLUONG_2>
+    <SLUONG_3>306</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS05132</MA_KHANG>
+    <MA_DDO>PA07SSSS05132001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>018</MA_GC>
+    <MA_QUYEN>SST53</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027288</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>MAI VAN NOI</TEN_KHANG>
+    <DIA_CHI>THANH NGOC TRUONG SON         </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707108931</MA_CTO>
+    <SERY_CTO>1707108931</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>204</CS_CU>
+    <TTR_CU />
+    <SL_CU>174</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>4A</MA_COT>
+    <SLUONG_1>174</SLUONG_1>
+    <SLUONG_2>217</SLUONG_2>
+    <SLUONG_3>195</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS05266</MA_KHANG>
+    <MA_DDO>PA07SSSS05266001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>019</MA_GC>
+    <MA_QUYEN>SST53</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027292</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Văn Thị Gái</TEN_KHANG>
+    <DIA_CHI>THANH NGOC TRUONG SON         </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707106327</MA_CTO>
+    <SERY_CTO>1707106327</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>170</CS_CU>
+    <TTR_CU />
+    <SL_CU>148</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>4A</MA_COT>
+    <SLUONG_1>148</SLUONG_1>
+    <SLUONG_2>154</SLUONG_2>
+    <SLUONG_3>180</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS05131</MA_KHANG>
+    <MA_DDO>PA07SSSS05131001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>020</MA_GC>
+    <MA_QUYEN>SST53</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027293</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Lương Thị Hồng</TEN_KHANG>
+    <DIA_CHI>THANH NGOC TRUONG SON         </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707103575</MA_CTO>
+    <SERY_CTO>1707103575</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>191</CS_CU>
+    <TTR_CU />
+    <SL_CU>169</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>4A</MA_COT>
+    <SLUONG_1>169</SLUONG_1>
+    <SLUONG_2>126</SLUONG_2>
+    <SLUONG_3>151</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS06232</MA_KHANG>
+    <MA_DDO>PA07SSSS06232001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>021</MA_GC>
+    <MA_QUYEN>SST53</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027294</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>NGUYEN THI HUONG</TEN_KHANG>
+    <DIA_CHI>THANH NGOC TRUONG SON SAM SON </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707103569</MA_CTO>
+    <SERY_CTO>1707103569</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>158</CS_CU>
+    <TTR_CU />
+    <SL_CU>137</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>4A</MA_COT>
+    <SLUONG_1>137</SLUONG_1>
+    <SLUONG_2>138</SLUONG_2>
+    <SLUONG_3>198</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0000259</MA_KHANG>
+    <MA_DDO>PA07SS0000259001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>022</MA_GC>
+    <MA_QUYEN>SST53</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027307</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Nguyễn Văn Sơn</TEN_KHANG>
+    <DIA_CHI>KP THANH NGỌC - TRƯỜNG SƠN - SẦM SƠN</DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707103580</MA_CTO>
+    <SERY_CTO>1707103580</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>230</CS_CU>
+    <TTR_CU />
+    <SL_CU>229</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>4A</MA_COT>
+    <SLUONG_1>229</SLUONG_1>
+    <SLUONG_2>165</SLUONG_2>
+    <SLUONG_3>335</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS00244</MA_KHANG>
+    <MA_DDO>PA07SSSS00244001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>023</MA_GC>
+    <MA_QUYEN>SST53</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027308</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Khương Tuyết Lan</TEN_KHANG>
+    <DIA_CHI>Truong Son</DIA_CHI>
+    <MA_NN />
+    <SO_HO>2</SO_HO>
+    <MA_CTO>43320171707103571</MA_CTO>
+    <SERY_CTO>1707103571</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>249</CS_CU>
+    <TTR_CU />
+    <SL_CU>217</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>4A</MA_COT>
+    <SLUONG_1>217</SLUONG_1>
+    <SLUONG_2>249</SLUONG_2>
+    <SLUONG_3>262</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS00248</MA_KHANG>
+    <MA_DDO>PA07SSSS00248001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>024</MA_GC>
+    <MA_QUYEN>SST53</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027309</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Lê Bá Khánh</TEN_KHANG>
+    <DIA_CHI>Thanh  ngoc Truong Son</DIA_CHI>
+    <MA_NN />
+    <SO_HO>2</SO_HO>
+    <MA_CTO>43320171707104738</MA_CTO>
+    <SERY_CTO>1707104738</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>241</CS_CU>
+    <TTR_CU />
+    <SL_CU>217</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>4A</MA_COT>
+    <SLUONG_1>217</SLUONG_1>
+    <SLUONG_2>225</SLUONG_2>
+    <SLUONG_3>259</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS00249</MA_KHANG>
+    <MA_DDO>PA07SSSS00249001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>025</MA_GC>
+    <MA_QUYEN>SST53</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027274</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Phạm Thị Yến</TEN_KHANG>
+    <DIA_CHI>X Ngoc Tr Son                 </DIA_CHI>
+    <MA_NN />
+    <SO_HO>3</SO_HO>
+    <MA_CTO>43320171707101484</MA_CTO>
+    <SERY_CTO>1707101484</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>670</CS_CU>
+    <TTR_CU />
+    <SL_CU>588</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>1/1B</MA_COT>
+    <SLUONG_1>588</SLUONG_1>
+    <SLUONG_2>549</SLUONG_2>
+    <SLUONG_3>717</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS00308</MA_KHANG>
+    <MA_DDO>PA07SSSS00308001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>026</MA_GC>
+    <MA_QUYEN>SST53</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027282</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Nguyễn Thị Thanh</TEN_KHANG>
+    <DIA_CHI>Thôn Thành Ngọc Ngọc - P.Trường Sơn - TX Sầm Sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>2</SO_HO>
+    <MA_CTO>43320171707109246</MA_CTO>
+    <SERY_CTO>1707109246</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>189</CS_CU>
+    <TTR_CU />
+    <SL_CU>165</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>1/1B</MA_COT>
+    <SLUONG_1>165</SLUONG_1>
+    <SLUONG_2>174</SLUONG_2>
+    <SLUONG_3>222</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS00272</MA_KHANG>
+    <MA_DDO>PA07SSSS00272001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>027</MA_GC>
+    <MA_QUYEN>SST53</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027312</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Lê Sỹ Trung</TEN_KHANG>
+    <DIA_CHI>Bắc Nam - Trường Sơn - Sầm Sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707104389</MA_CTO>
+    <SERY_CTO>1707104389</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>68</CS_CU>
+    <TTR_CU />
+    <SL_CU>56</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>9A</MA_COT>
+    <SLUONG_1>56</SLUONG_1>
+    <SLUONG_2>106</SLUONG_2>
+    <SLUONG_3>187</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0010682</MA_KHANG>
+    <MA_DDO>PA07SS0010682001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>028</MA_GC>
+    <MA_QUYEN>SST53</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027266</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Hà Viết Hiếu</TEN_KHANG>
+    <DIA_CHI>Bắc Nam - Trường Sơn - Sầm Sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707105886</MA_CTO>
+    <SERY_CTO>1707105886</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>163</CS_CU>
+    <TTR_CU />
+    <SL_CU>144</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2/7A</MA_COT>
+    <SLUONG_1>144</SLUONG_1>
+    <SLUONG_2>141</SLUONG_2>
+    <SLUONG_3>215</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0011847</MA_KHANG>
+    <MA_DDO>PA07SS0011847001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>029</MA_GC>
+    <MA_QUYEN>SST53</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027276</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Nguyễn Hồng Thông</TEN_KHANG>
+    <DIA_CHI>Thành Ngọc Trường Sơn Thị xã Sầm Sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707044675</MA_CTO>
+    <SERY_CTO>1707044675</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>1126</CS_CU>
+    <TTR_CU />
+    <SL_CU>1001</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2A</MA_COT>
+    <SLUONG_1>1001</SLUONG_1>
+    <SLUONG_2>909</SLUONG_2>
+    <SLUONG_3>1109</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0011870</MA_KHANG>
+    <MA_DDO>PA07SS0011870001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>030</MA_GC>
+    <MA_QUYEN>SST53</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027310</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Trần Thị Phú</TEN_KHANG>
+    <DIA_CHI>Thành Ngọc Trường Sơn Thị xã Sầm Sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707103660</MA_CTO>
+    <SERY_CTO>1707103660</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>142</CS_CU>
+    <TTR_CU />
+    <SL_CU>114</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>4A</MA_COT>
+    <SLUONG_1>114</SLUONG_1>
+    <SLUONG_2>126</SLUONG_2>
+    <SLUONG_3>377</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0012642</MA_KHANG>
+    <MA_DDO>PA07SS0012642001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>031</MA_GC>
+    <MA_QUYEN>SST53</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027273</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Nguyễn Thừa Đường</TEN_KHANG>
+    <DIA_CHI>Thành Ngọc Trường Sơn - Thị xã Sầm Sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707102380</MA_CTO>
+    <SERY_CTO>1707102380</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>127</CS_CU>
+    <TTR_CU />
+    <SL_CU>108</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>1A</MA_COT>
+    <SLUONG_1>108</SLUONG_1>
+    <SLUONG_2>147</SLUONG_2>
+    <SLUONG_3>156</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0013155</MA_KHANG>
+    <MA_DDO>PA07SS0013155001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>032</MA_GC>
+    <MA_QUYEN>SST53</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2063429</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Nguyễn Thị Lan Hương</TEN_KHANG>
+    <DIA_CHI>Thành Ngọc - Trường Sơn TP.Sầm Sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707073082</MA_CTO>
+    <SERY_CTO>1707073082</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>0</CS_CU>
+    <TTR_CU />
+    <SL_CU>0</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-22T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2/7A</MA_COT>
+    <SLUONG_1>0</SLUONG_1>
+    <SLUONG_2>0</SLUONG_2>
+    <SLUONG_3>0</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS00239</MA_KHANG>
+    <MA_DDO>PA07SSSS00239001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>001</MA_GC>
+    <MA_QUYEN>SST83</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2026362</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Nguyen Van Tien</TEN_KHANG>
+    <DIA_CHI>Nguyen Du Sam Son             </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707105874</MA_CTO>
+    <SERY_CTO>1707105874</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>313</CS_CU>
+    <TTR_CU />
+    <SL_CU>277</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>6A</MA_COT>
+    <SLUONG_1>277</SLUONG_1>
+    <SLUONG_2>248</SLUONG_2>
+    <SLUONG_3>311</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS00232</MA_KHANG>
+    <MA_DDO>PA07SSSS00232001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>002</MA_GC>
+    <MA_QUYEN>SST83</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2026366</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Nguyen Ngoc Binh</TEN_KHANG>
+    <DIA_CHI>Nguyen Du Sam Son             </DIA_CHI>
+    <MA_NN />
+    <SO_HO>2</SO_HO>
+    <MA_CTO>43320171707105879</MA_CTO>
+    <SERY_CTO>1707105879</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>384</CS_CU>
+    <TTR_CU />
+    <SL_CU>345</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>6A</MA_COT>
+    <SLUONG_1>345</SLUONG_1>
+    <SLUONG_2>202</SLUONG_2>
+    <SLUONG_3>313</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS00236</MA_KHANG>
+    <MA_DDO>PA07SSSS00236001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>003</MA_GC>
+    <MA_QUYEN>SST83</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2026377</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Nguyen Minh Quyet</TEN_KHANG>
+    <DIA_CHI>Nguyen Du Sam Son             </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707105873</MA_CTO>
+    <SERY_CTO>1707105873</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>409</CS_CU>
+    <TTR_CU />
+    <SL_CU>362</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>6A</MA_COT>
+    <SLUONG_1>362</SLUONG_1>
+    <SLUONG_2>345</SLUONG_2>
+    <SLUONG_3>429</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS00242</MA_KHANG>
+    <MA_DDO>PA07SSSS00242001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>004</MA_GC>
+    <MA_QUYEN>SST83</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2026378</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Hoang Ngoc Qui</TEN_KHANG>
+    <DIA_CHI>Nguyen Du Sam Son             </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707105872</MA_CTO>
+    <SERY_CTO>1707105872</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>245</CS_CU>
+    <TTR_CU />
+    <SL_CU>214</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>6A</MA_COT>
+    <SLUONG_1>214</SLUONG_1>
+    <SLUONG_2>208</SLUONG_2>
+    <SLUONG_3>247</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS00233</MA_KHANG>
+    <MA_DDO>PA07SSSS00233001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>005</MA_GC>
+    <MA_QUYEN>SST83</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2026380</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Trinh Duy Ton</TEN_KHANG>
+    <DIA_CHI>Nguyen Du Sam So              </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707109260</MA_CTO>
+    <SERY_CTO>1707109260</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>342</CS_CU>
+    <TTR_CU />
+    <SL_CU>310</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>6A</MA_COT>
+    <SLUONG_1>310</SLUONG_1>
+    <SLUONG_2>241</SLUONG_2>
+    <SLUONG_3>343</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS00262</MA_KHANG>
+    <MA_DDO>PA07SSSS00262001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>006</MA_GC>
+    <MA_QUYEN>SST83</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027435</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>NGUYEN VAN SANG</TEN_KHANG>
+    <DIA_CHI>Thon Bac Nam Truong son</DIA_CHI>
+    <MA_NN />
+    <SO_HO>4</SO_HO>
+    <MA_CTO>43320171707082519</MA_CTO>
+    <SERY_CTO>1707082519</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>656</CS_CU>
+    <TTR_CU />
+    <SL_CU>595</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>5A</MA_COT>
+    <SLUONG_1>595</SLUONG_1>
+    <SLUONG_2>357</SLUONG_2>
+    <SLUONG_3>504</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0000634</MA_KHANG>
+    <MA_DDO>PA07SS0000634001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>007</MA_GC>
+    <MA_QUYEN>SST83</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027429</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Phạm Xuân Lánh</TEN_KHANG>
+    <DIA_CHI>Kp. Bắc Nam - P. Trường Sơn - TX Sầm sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707019289</MA_CTO>
+    <SERY_CTO>1707019289</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>898</CS_CU>
+    <TTR_CU />
+    <SL_CU>802</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>5A</MA_COT>
+    <SLUONG_1>802</SLUONG_1>
+    <SLUONG_2>750</SLUONG_2>
+    <SLUONG_3>898</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0000442</MA_KHANG>
+    <MA_DDO>PA07SS0000442001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>008</MA_GC>
+    <MA_QUYEN>SST83</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027431</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Lê Văn Hùng</TEN_KHANG>
+    <DIA_CHI>Bắc Nam - Trường Sơn - TX Sầm sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707044679</MA_CTO>
+    <SERY_CTO>1707044679</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>167</CS_CU>
+    <TTR_CU />
+    <SL_CU>148</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>5A</MA_COT>
+    <SLUONG_1>148</SLUONG_1>
+    <SLUONG_2>136</SLUONG_2>
+    <SLUONG_3>205</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0001082</MA_KHANG>
+    <MA_DDO>PA07SS0001082001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>009</MA_GC>
+    <MA_QUYEN>SST83</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027337</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Hà Thị Lê</TEN_KHANG>
+    <DIA_CHI>KP Bắc nam - Trường sơn - TX Sầm sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707090350</MA_CTO>
+    <SERY_CTO>1707090350</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>259</CS_CU>
+    <TTR_CU />
+    <SL_CU>229</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2/4A</MA_COT>
+    <SLUONG_1>229</SLUONG_1>
+    <SLUONG_2>185</SLUONG_2>
+    <SLUONG_3>170</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0004082</MA_KHANG>
+    <MA_DDO>PA07SS0004082001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>010</MA_GC>
+    <MA_QUYEN>SST83</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027338</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Tô Thanh Bình</TEN_KHANG>
+    <DIA_CHI>Bắc nam - Trường sơn - Thị xã Sầm Sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707090360</MA_CTO>
+    <SERY_CTO>1707090360</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>136</CS_CU>
+    <TTR_CU />
+    <SL_CU>118</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2/4A</MA_COT>
+    <SLUONG_1>118</SLUONG_1>
+    <SLUONG_2>126</SLUONG_2>
+    <SLUONG_3>215</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0004439</MA_KHANG>
+    <MA_DDO>PA07SS0004439001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>011</MA_GC>
+    <MA_QUYEN>SST83</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027341</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Lê Thị Dân</TEN_KHANG>
+    <DIA_CHI>KP Bắc nam - Trường sơn - Thị xã Sầm Sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707104821</MA_CTO>
+    <SERY_CTO>1707104821</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>166</CS_CU>
+    <TTR_CU />
+    <SL_CU>138</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2/4A</MA_COT>
+    <SLUONG_1>138</SLUONG_1>
+    <SLUONG_2>166</SLUONG_2>
+    <SLUONG_3>222</SLUONG_3>
+    <SO_HOM>1</SO_HOM>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0004225</MA_KHANG>
+    <MA_DDO>PA07SS0004225001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>012</MA_GC>
+    <MA_QUYEN>SST83</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027345</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Lưu Đình Dũng</TEN_KHANG>
+    <DIA_CHI>KP Bắc nam - Trường sơn - Thị xã Sầm Sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707090354</MA_CTO>
+    <SERY_CTO>1707090354</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>282</CS_CU>
+    <TTR_CU />
+    <SL_CU>252</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2/4A</MA_COT>
+    <SLUONG_1>252</SLUONG_1>
+    <SLUONG_2>209</SLUONG_2>
+    <SLUONG_3>278</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS00237</MA_KHANG>
+    <MA_DDO>PA07SSSS00237001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>013</MA_GC>
+    <MA_QUYEN>SST83</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027346</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Nguyễn Thị Hoà</TEN_KHANG>
+    <DIA_CHI>Xom Bac Nam Truong son</DIA_CHI>
+    <MA_NN />
+    <SO_HO>2</SO_HO>
+    <MA_CTO>43320171707090347</MA_CTO>
+    <SERY_CTO>1707090347</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>109</CS_CU>
+    <TTR_CU />
+    <SL_CU>97</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2/4A</MA_COT>
+    <SLUONG_1>97</SLUONG_1>
+    <SLUONG_2>87</SLUONG_2>
+    <SLUONG_3>118</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0004527</MA_KHANG>
+    <MA_DDO>PA07SS0004527001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>014</MA_GC>
+    <MA_QUYEN>SST83</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027348</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Nguyễn Hữu Đức</TEN_KHANG>
+    <DIA_CHI>Kp. Bắc Nam - P. Trường Sơn - TX Sầm sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707090341</MA_CTO>
+    <SERY_CTO>1707090341</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>243</CS_CU>
+    <TTR_CU />
+    <SL_CU>218</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2/4A</MA_COT>
+    <SLUONG_1>218</SLUONG_1>
+    <SLUONG_2>193</SLUONG_2>
+    <SLUONG_3>210</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS00330</MA_KHANG>
+    <MA_DDO>PA07SSSS00330001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>015</MA_GC>
+    <MA_QUYEN>SST83</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027350</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Vũ Thị Ninh</TEN_KHANG>
+    <DIA_CHI>Bắc nam - Trường sơn - TX Sầm sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707090343</MA_CTO>
+    <SERY_CTO>1707090343</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>310</CS_CU>
+    <TTR_CU />
+    <SL_CU>272</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2/4A</MA_COT>
+    <SLUONG_1>272</SLUONG_1>
+    <SLUONG_2>280</SLUONG_2>
+    <SLUONG_3>378</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0008862</MA_KHANG>
+    <MA_DDO>PA07SS0008862001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>016</MA_GC>
+    <MA_QUYEN>SST83</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027352</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Lê Trọng Khiên</TEN_KHANG>
+    <DIA_CHI>Lương thế Vinh - Bắc nam - Trường sơn - Thị xã Sầm Sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707090359</MA_CTO>
+    <SERY_CTO>1707090359</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>60</CS_CU>
+    <TTR_CU />
+    <SL_CU>51</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2/4A</MA_COT>
+    <SLUONG_1>51</SLUONG_1>
+    <SLUONG_2>66</SLUONG_2>
+    <SLUONG_3>79</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS00243</MA_KHANG>
+    <MA_DDO>PA07SSSS00243001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>017</MA_GC>
+    <MA_QUYEN>SST83</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027355</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Lê Văn Điền</TEN_KHANG>
+    <DIA_CHI>KP Bắc nam - Trường sơn - TX Sầm sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>2</SO_HO>
+    <MA_CTO>43320171707102755</MA_CTO>
+    <SERY_CTO>1707102755</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>230</CS_CU>
+    <TTR_CU />
+    <SL_CU>198</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2/4A</MA_COT>
+    <SLUONG_1>198</SLUONG_1>
+    <SLUONG_2>216</SLUONG_2>
+    <SLUONG_3>213</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0000512</MA_KHANG>
+    <MA_DDO>PA07SS0000512001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>018</MA_GC>
+    <MA_QUYEN>SST83</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027367</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Nguyễn Văn Tuấn</TEN_KHANG>
+    <DIA_CHI>Bắc nam - Trường sơn - Sầm sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>2</SO_HO>
+    <MA_CTO>43320171707104908</MA_CTO>
+    <SERY_CTO>1707104908</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>418</CS_CU>
+    <TTR_CU />
+    <SL_CU>369</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>3/4A</MA_COT>
+    <SLUONG_1>369</SLUONG_1>
+    <SLUONG_2>333</SLUONG_2>
+    <SLUONG_3>394</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS00105</MA_KHANG>
+    <MA_DDO>PA07SSSS00105001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>019</MA_GC>
+    <MA_QUYEN>SST83</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027369</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>HOANG TRUYEN</TEN_KHANG>
+    <DIA_CHI>THON THANH NGOC TRUONG SON SS </DIA_CHI>
+    <MA_NN />
+    <SO_HO>2</SO_HO>
+    <MA_CTO>43320171707104912</MA_CTO>
+    <SERY_CTO>1707104912</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>132</CS_CU>
+    <TTR_CU />
+    <SL_CU>123</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>3/4A</MA_COT>
+    <SLUONG_1>123</SLUONG_1>
+    <SLUONG_2>86</SLUONG_2>
+    <SLUONG_3>114</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0001102</MA_KHANG>
+    <MA_DDO>PA07SS0001102001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>020</MA_GC>
+    <MA_QUYEN>SST83</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027410</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Nguyễn Thị Mai</TEN_KHANG>
+    <DIA_CHI>KP Bắc nam - Trường sơn - TX Sầm sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707104905</MA_CTO>
+    <SERY_CTO>1707104905</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>203</CS_CU>
+    <TTR_CU />
+    <SL_CU>180</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>3/4A</MA_COT>
+    <SLUONG_1>180</SLUONG_1>
+    <SLUONG_2>174</SLUONG_2>
+    <SLUONG_3>199</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0004236</MA_KHANG>
+    <MA_DDO>PA07SS0004236001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>021</MA_GC>
+    <MA_QUYEN>SST83</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027413</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Trương Hoài Nam</TEN_KHANG>
+    <DIA_CHI>Bắc Nam - Trường Sơn - Sầm Sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707104903</MA_CTO>
+    <SERY_CTO>1707104903</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>103</CS_CU>
+    <TTR_CU />
+    <SL_CU>89</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>3/4A</MA_COT>
+    <SLUONG_1>89</SLUONG_1>
+    <SLUONG_2>104</SLUONG_2>
+    <SLUONG_3>151</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0008924</MA_KHANG>
+    <MA_DDO>PA07SS0008924001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>022</MA_GC>
+    <MA_QUYEN>SST83</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027414</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Hà Viết Hòng</TEN_KHANG>
+    <DIA_CHI>KP Bắc nam - Phường Trường sơn - Thị xã Sầm Sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707071285</MA_CTO>
+    <SERY_CTO>1707071285</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>198</CS_CU>
+    <TTR_CU />
+    <SL_CU>186</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>3/4A</MA_COT>
+    <SLUONG_1>186</SLUONG_1>
+    <SLUONG_2>126</SLUONG_2>
+    <SLUONG_3>195</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0000639</MA_KHANG>
+    <MA_DDO>PA07SS0000639001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>023</MA_GC>
+    <MA_QUYEN>SST83</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027417</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Cao Văn Luận</TEN_KHANG>
+    <DIA_CHI>Kp. Bắc Nam - P. Trường Sơn - TX Sầm sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>3</SO_HO>
+    <MA_CTO>43320171707071300</MA_CTO>
+    <SERY_CTO>1707071300</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>672</CS_CU>
+    <TTR_CU />
+    <SL_CU>596</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>3/4A</MA_COT>
+    <SLUONG_1>596</SLUONG_1>
+    <SLUONG_2>903</SLUONG_2>
+    <SLUONG_3>521</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS00326</MA_KHANG>
+    <MA_DDO>PA07SSSS00326001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>024</MA_GC>
+    <MA_QUYEN>SST83</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027363</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Nguyen Hong Co</TEN_KHANG>
+    <DIA_CHI>Thanh Ngoc Truong son         </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707109351</MA_CTO>
+    <SERY_CTO>1707109351</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>16</CS_CU>
+    <TTR_CU />
+    <SL_CU>15</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>3A</MA_COT>
+    <SLUONG_1>15</SLUONG_1>
+    <SLUONG_2>15</SLUONG_2>
+    <SLUONG_3>18</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS00267</MA_KHANG>
+    <MA_DDO>PA07SSSS00267001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>025</MA_GC>
+    <MA_QUYEN>SST83</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027334</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Bui Thi Thu</TEN_KHANG>
+    <DIA_CHI>Duong Nguyen Du Sam Son       </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707106540</MA_CTO>
+    <SERY_CTO>1707106540</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>1</CS_CU>
+    <TTR_CU />
+    <SL_CU>0</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>2A</MA_COT>
+    <SLUONG_1>0</SLUONG_1>
+    <SLUONG_2>2</SLUONG_2>
+    <SLUONG_3>18</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0011319</MA_KHANG>
+    <MA_DDO>PA07SS0011319001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>026</MA_GC>
+    <MA_QUYEN>SST83</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2030157</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Lê Văn Thanh</TEN_KHANG>
+    <DIA_CHI>Bắc Nam Trường Sơn Thị xã Sầm Sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707090358</MA_CTO>
+    <SERY_CTO>1707090358</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>134</CS_CU>
+    <TTR_CU />
+    <SL_CU>123</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>TBA</MA_COT>
+    <SLUONG_1>123</SLUONG_1>
+    <SLUONG_2>152</SLUONG_2>
+    <SLUONG_3>155</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0011465</MA_KHANG>
+    <MA_DDO>PA07SS0011465001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>027</MA_GC>
+    <MA_QUYEN>SST83</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027422</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Vũ Thị Thảo</TEN_KHANG>
+    <DIA_CHI>Bắc Nam - Trường Sơn - Sầm Sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707071299</MA_CTO>
+    <SERY_CTO>1707071299</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>185</CS_CU>
+    <TTR_CU />
+    <SL_CU>163</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>3/4A</MA_COT>
+    <SLUONG_1>163</SLUONG_1>
+    <SLUONG_2>161</SLUONG_2>
+    <SLUONG_3>221</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SS0000968</MA_KHANG>
+    <MA_DDO>PA07SS0000968001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>028</MA_GC>
+    <MA_QUYEN>SST83</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027427</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Lê Thị Hải Yến</TEN_KHANG>
+    <DIA_CHI>KP Bắc nam - Trường sơn - TX Sầm sơn</DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707071296</MA_CTO>
+    <SERY_CTO>1707071296</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>305</CS_CU>
+    <TTR_CU />
+    <SL_CU>272</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>3/4A</MA_COT>
+    <SLUONG_1>272</SLUONG_1>
+    <SLUONG_2>207</SLUONG_2>
+    <SLUONG_3>276</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+  <Table1>
+    <MA_NVGCS>005</MA_NVGCS>
+    <MA_KHANG>PA07SSSS00260</MA_KHANG>
+    <MA_DDO>PA07SSSS00260001</MA_DDO>
+    <MA_DVIQLY>PA07SS</MA_DVIQLY>
+    <MA_GC>029</MA_GC>
+    <MA_QUYEN>SST83</MA_QUYEN>
+    <MA_TRAM>SSCE00032</MA_TRAM>
+    <BOCSO_ID>2027479</BOCSO_ID>
+    <LOAI_BCS>KT</LOAI_BCS>
+    <LOAI_CS>DDK</LOAI_CS>
+    <TEN_KHANG>Le Hoang Thinh      </TEN_KHANG>
+    <DIA_CHI>Duong Thanh nien              </DIA_CHI>
+    <MA_NN />
+    <SO_HO>1</SO_HO>
+    <MA_CTO>43320171707104727</MA_CTO>
+    <SERY_CTO>1707104727</SERY_CTO>
+    <HSN>1</HSN>
+    <CS_CU>1</CS_CU>
+    <TTR_CU />
+    <SL_CU>0</SL_CU>
+    <SL_TTIEP>0</SL_TTIEP>
+    <NGAY_CU>2017-12-18T00:00:00</NGAY_CU>
+    <CS_MOI>0</CS_MOI>
+    <SL_MOI>0</SL_MOI>
+    <CHUOI_GIA> KT: 100%*SHBT-A</CHUOI_GIA>
+    <KY>1</KY>
+    <THANG>1</THANG>
+    <NAM>2018</NAM>
+    <NGAY_MOI>2018-01-17T00:00:00</NGAY_MOI>
+    <NGUOI_GCS>Trịnh Văn Hiền</NGUOI_GCS>
+    <SL_THAO>0</SL_THAO>
+    <KIMUA_CSPK>0</KIMUA_CSPK>
+    <MA_COT>5A</MA_COT>
+    <SLUONG_1>0</SLUONG_1>
+    <SLUONG_2>5</SLUONG_2>
+    <SLUONG_3>140</SLUONG_3>
+    <PMAX>0</PMAX>
+    <NGAY_PMAX>1000-01-01T00:00:00</NGAY_PMAX>
+  </Table1>
+</NewDataSet>
